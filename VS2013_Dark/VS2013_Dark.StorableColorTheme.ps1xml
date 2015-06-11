@@ -358,13 +358,13 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>36</R>
-      <G>36</G>
-      <B>36</B>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
       <ScA>1</ScA>
-      <ScR>0.0176419541</ScR>
-      <ScG>0.0176419541</ScG>
-      <ScB>0.0176419541</ScB>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
     </Color>
     <Color>
       <A>255</A>
