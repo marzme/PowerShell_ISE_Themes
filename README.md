@@ -5,9 +5,9 @@ A collection of themes for the Windows PowerShell ISE.
 ## How to Use
 In the PowerShell ISE, go to **Tools -> Options -> Manage Themes -> Import**.
 
-Please note that these themes only apply for the Scripting Pane area of the ISE, and only for the PowerShell language. The XML language and Console Pane colours are just the default ISE ones. I thought changing the console pane colours would be more annoying than helpful, as if you employed text/background colours etc in your actual script code, the result would look different in the ISE console than if you ran the script in the normal PowerShell console on another machine.
-
 Happy scripting! :)
+
+<sup><sub> **Please Note:** These themes only apply for the Scripting Pane area of the ISE, and only for the PowerShell language. The XML language and Console Pane colours are just the default ISE ones. I thought changing the console pane colours would be more annoying than helpful, as if you employed text/background colours etc in your actual script code, the result would look different in the ISE console than if you ran the script in the normal PowerShell console on another machine. </sub></sup>
 
 
 
