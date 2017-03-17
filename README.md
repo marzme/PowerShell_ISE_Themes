@@ -26,9 +26,11 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ###### Ambient:
 ![Alt text](Ambient/Ambient_Example.PNG?raw=true)
 <hr>
+
 ###### Ambients:
 ![Alt text](Ambients/Ambients_Example.PNG?raw=true)
 <hr>
+
 ###### Base16 Tomorrow:
 ![Alt text](Base16_Tomorrow/Base16_Tomorrow_Example.PNG?raw=true)
 <hr>
@@ -98,4 +100,3 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ###### Zenburn:
 ![Alt text](Zenburn/Zenburn_Example.PNG?raw=true)
 <hr>
-
