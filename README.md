@@ -1,124 +1,130 @@
 # PowerShell_ISE_Themes
 A collection of themes for the Windows PowerShell ISE.
 
+<br>
 
 ## How to Use
-In the PowerShell ISE, go to **Tools -> Options -> Manage Themes -> Import**.
+**GUI Method (to import themes individually):**<br>
+Download the theme you want by navigating to the .ps1xml file in GitHub, clicking the 3 dots in the top-right, and selecting to download the raw file content. Then, in the PowerShell ISE, go to _Tools -> Options -> Manage Themes -> Import_, and import the downloaded .ps1xml file.
+<br>
+
+**PowerShell Method (to import all themes at once):**<br>
+Run the PowerShell commands in the "Import-ISEThemesFromGithub.ps1" script which can be found in the "!Script to import all themes" folder.
+
+<br>
 
 Happy scripting! :)
 
-<sub> **Please Note:** These themes only apply for the Scripting Pane area of the ISE, and only for the PowerShell language. The XML language and Console Pane colours are just the default ISE ones. I thought changing the console pane colours would be more annoying than helpful, as if you employed text/background colours etc in your actual script code, the result would look different in the ISE console than if you ran the script in the normal PowerShell console on another machine. </sub>
+<sub> **Please Note:** These themes only apply to the Scripting Pane of the ISE, and only for the PowerShell language. The XML language and Console Pane colours will remain the default ones. I thought changing the console pane colours would be more annoying than helpful, as if you used colours in your script, the result would look different in the ISE console than in a normal PowerShell window. </sub>
 
-
-
+<br>
 
 ## Original Sources
-
 Most of these themes were converted from ones on [EclipseColorThemes.org](http://eclipsecolorthemes.org), thanks to [this](https://github.com/akawhoami/psisetheme) nice little script from ["akawhoami"](https://github.com/akawhoami).
 
-The "Visual Studio 2013 Dark" theme is thanks to ["curi0usJack"](https://github.com/curi0usJack), and was found here:  https://project500.squarespace.com/journal/2015/2/16/vs2013-dark-theme-for-powershell-ise. 
+The "Visual Studio 2013 Dark" theme is thanks to ["curi0usJack"](https://github.com/curi0usJack), and was found here:  https://project500.squarespace.com/journal/2015/2/16/vs2013-dark-theme-for-powershell-ise.
 
 The Placidity theme I created myself from scratch, and is my personal favourite. :)
 
+<br>
 
 ## Example Screenshots
-
-###### Ambient:
+#### Ambient:
 ![Alt text](Ambient/Ambient_Example.PNG?raw=true)
 <hr>
 
-###### Ambients:
+#### Ambients:
 ![Alt text](Ambients/Ambients_Example.PNG?raw=true)
 <hr>
 
-###### Base16 Tomorrow:
+#### Base16 Tomorrow:
 ![Alt text](Base16_Tomorrow/Base16_Tomorrow_Example.PNG?raw=true)
 <hr>
 
-###### Black Pastel:
+#### Black Pastel:
 ![Alt text](Black_Pastel/Black_Pastel_Example.PNG?raw=true)
 <hr>
 
-###### Depend On Me:
+#### Depend On Me:
 ![Alt text](DependOnMe/DependOnMe_Example.PNG?raw=true)
 <hr>
 
-###### GEdit Original:
+#### GEdit Original:
 ![Alt text](GEdit_Original/GEdit_Original_Example.PNG?raw=true)
 <hr>
 
-###### Havenjark:
+#### Havenjark:
 ![Alt text](Havenjark/Havenjark_Example.PNG?raw=true)
 <hr>
 
-###### Monokai:
+#### Monokai:
 ![Alt text](Monokai/Monokai_Example.PNG?raw=true)
 <hr>
 
-###### Navy Ocean:
+#### Navy Ocean:
 ![Alt text](Navy_Ocean/Navy_Ocean_Example.PNG?raw=true)
 <hr>
 
-###### Notepad++ Like:
+#### Notepad++ Like:
 ![Alt text](Notepad++_Like/Notepad++_Like_Example.PNG?raw=true)
 <hr>
 
-###### Oblivion:
+#### Oblivion:
 ![Alt text](Oblivion/Oblivion_Example.PNG?raw=true)
 <hr>
 
-###### Obsidian:
+#### Obsidian:
 ![Alt text](Obsidian/Obsidian_Example.PNG?raw=true)
 <hr>
 
-###### Ocean Deep:
+#### Ocean Deep:
 ![Alt text](Ocean_Deep/Ocean_Deep_Example.PNG?raw=true)
 <hr>
 
-###### Pastel:
+#### Pastel:
 ![Alt text](Pastel/Pastel_Example.PNG?raw=true)
 <hr>
 
-###### Placidity:
+#### Placidity:
 ![Alt text](Placidity/Placidity_Example.PNG?raw=true)
 <hr>
 
-###### RecognEyes:
+#### RecognEyes:
 ![Alt text](RecognEyes/RecognEyes_Example.PNG?raw=true)
 <hr>
 
-###### Retta:
+#### Retta:
 ![Alt text](Retta/Retta_Example.PNG?raw=true)
 <hr>
 
-###### Roboticket:
+#### Roboticket:
 ![Alt text](Roboticket/Roboticket_Example.PNG?raw=true)
 <hr>
 
-###### Solarized:
+#### Solarized:
 ![Alt text](Solarized/Solarized_Example.PNG?raw=true)
 <hr>
 
-###### Solarized Light:
+#### Solarized Light:
 ![Alt text](Solarized_Light/Solarized_Light_Example.PNG?raw=true)
 <hr>
 
-###### Sublime Text 2:
+#### Sublime Text 2:
 ![Alt text](Sublime_Text_2/Sublime_Text_2_Example.PNG?raw=true)
 <hr>
 
-###### Vibrant Ink:
+#### Vibrant Ink:
 ![Alt text](Vibrant_Ink/Vibrant_Ink_Example.PNG?raw=true)
 <hr>
 
-###### VS2013 Dark:
+#### VS2013 Dark:
 ![Alt text](VS2013_Dark/VS2013_Dark_Example.PNG?raw=true)
 <hr>
 
-###### Wombat:
+#### Wombat:
 ![Alt text](Wombat/Wombat_Example.PNG?raw=true)
 <hr>
 
-###### Zenburn:
+#### Zenburn:
 ![Alt text](Zenburn/Zenburn_Example.PNG?raw=true)
-<hr>
+
