@@ -37,6 +37,10 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ![Alt text](Ambients/Ambients_Example.PNG?raw=true)
 <hr>
 
+#### Aquatic:
+![Alt text](Aquatic/Aquatic_Example.PNG?raw=true)
+<hr>
+
 #### Base16 Tomorrow:
 ![Alt text](Base16_Tomorrow/Base16_Tomorrow_Example.PNG?raw=true)
 <hr>
@@ -45,11 +49,19 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ![Alt text](Black_Pastel/Black_Pastel_Example.PNG?raw=true)
 <hr>
 
-#### Depend On Me:
+#### DependOnMe:
 ![Alt text](DependOnMe/DependOnMe_Example.PNG?raw=true)
 <hr>
 
-#### GEdit Original:
+#### Dracula JetBrains:
+![Alt text](Dracula_JetBrains/Dracula_JetBrains_Example.PNG?raw=true)
+<hr>
+
+#### Flare v1:
+![Alt text](Flare_v1/Flare_v1_Example.PNG?raw=true)
+<hr>
+
+#### GEdit Original Oblivion:
 ![Alt text](GEdit_Original/GEdit_Original_Example.PNG?raw=true)
 <hr>
 
@@ -63,6 +75,10 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 
 #### Navy Ocean:
 ![Alt text](Navy_Ocean/Navy_Ocean_Example.PNG?raw=true)
+<hr>
+
+#### Nightvale:
+![Alt text](Nightvale/Nightvale_Example.PNG?raw=true)
 <hr>
 
 #### Notepad++ Like:
@@ -81,12 +97,28 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ![Alt text](Ocean_Deep/Ocean_Deep_Example.PNG?raw=true)
 <hr>
 
+#### Paper Rose:
+![Alt text](Paper_Rose/Paper_Rose_Example.PNG?raw=true)
+<hr>
+
 #### Pastel:
 ![Alt text](Pastel/Pastel_Example.PNG?raw=true)
 <hr>
 
 #### Placidity:
 ![Alt text](Placidity/Placidity_Example.PNG?raw=true)
+<hr>
+
+#### Plastic Code Wrap:
+![Alt text](Plastic_Code_Wrap/Plastic_Code_Wrap_Example.PNG?raw=true)
+<hr>
+
+#### Python Idle Tango:
+![Alt text](Python_Idle_Tango/Python_Idle_Tango_Example.PNG?raw=true)
+<hr>
+
+#### Railscast:
+![Alt text](Railscast/Railscast_Example.PNG?raw=true)
 <hr>
 
 #### RecognEyes:
@@ -109,12 +141,28 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ![Alt text](Solarized_Light/Solarized_Light_Example.PNG?raw=true)
 <hr>
 
+#### Space Gray:
+![Alt text](Space_Gray/Space_Gray_Example.PNG?raw=true)
+<hr>
+
 #### Sublime Text 2:
 ![Alt text](Sublime_Text_2/Sublime_Text_2_Example.PNG?raw=true)
 <hr>
 
+#### Tomorrow Night:
+![Alt text](Tomorrow_Night/Tomorrow_Night_Example.PNG?raw=true)
+<hr>
+
 #### Vibrant Ink:
 ![Alt text](Vibrant_Ink/Vibrant_Ink_Example.PNG?raw=true)
+<hr>
+
+#### Vim Dark:
+![Alt text](Vim_Dark/Vim_Dark_Example.PNG?raw=true)
+<hr>
+
+#### Vim Dessert:
+![Alt text](Vim_Dessert/Vim_Dessert_Example.PNG?raw=true)
 <hr>
 
 #### VS2013 Dark:
