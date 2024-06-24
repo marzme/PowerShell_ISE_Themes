@@ -4,11 +4,11 @@ A collection of themes for the Windows PowerShell ISE.
 <br>
 
 ## How to Use
-### GUI Method (to import themes individually):
+**GUI Method (to import themes individually):**<br>
 Download the theme you want by navigating to the .ps1xml file in GitHub, clicking the 3 dots in the top-right, and selecting to download the raw file content. Then, in the PowerShell ISE, go to _Tools -> Options -> Manage Themes -> Import_, and import the downloaded .ps1xml file.
 <br>
 
-### PowerShell Method (to import all themes at once):
+**PowerShell Method (to import all themes at once):**<br>
 Run the PowerShell commands in the "Import-ISEThemesFromGithub.ps1" script which can be found in the "!Script to import all themes" folder.
 
 <br>
