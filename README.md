@@ -13,18 +13,20 @@ Run the PowerShell commands in the "Import-ISEThemesFromGithub.ps1" script which
 
 <br>
 
-Happy scripting! :)
+Happy scripting! 😊
 
 <sub> **Please Note:** These themes only apply to the Scripting Pane of the ISE, and only for the PowerShell language. The XML language and Console Pane colours will remain the default ones. I thought changing the console pane colours would be more annoying than helpful, as if you used colours in your script, the result would look different in the ISE console than in a normal PowerShell window. </sub>
 
 <br>
 
 ## Original Sources
-Most of these themes were converted from ones on [EclipseColorThemes.org](http://eclipsecolorthemes.org), thanks to [this](https://github.com/akawhoami/psisetheme) nice little script from ["akawhoami"](https://github.com/akawhoami).
+Most of these themes were converted from ones on [Eclipse-Color-Themes.web.app](https://eclipse-color-themes.web.app/) (formerly [EclipseColorThemes.org](http://eclipsecolorthemes.org)), thanks to [this](https://github.com/akawhoami/psisetheme) nice little script from ["akawhoami"](https://github.com/akawhoami).
 
 The "Visual Studio 2013 Dark" theme is thanks to ["curi0usJack"](https://github.com/curi0usJack), and was found here:  https://project500.squarespace.com/journal/2015/2/16/vs2013-dark-theme-for-powershell-ise.
 
-The Placidity theme I created myself from scratch, and is my personal favourite. :)
+Aquatic, Nightvale, and Paper Rose were found on [ISEColorTheme.Cmdlets](https://www.powershellgallery.com/packages/ISEColorTheme.Cmdlets/1.5) on the PSGallery.
+
+The Placidity and Calm Dusk themes I created myself from scratch, and are my personal favourites. 😊
 
 <br>
 
