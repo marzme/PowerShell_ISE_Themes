@@ -9,7 +9,11 @@ Download the theme you want by navigating to the .ps1xml file in GitHub, clickin
 <br>
 
 **PowerShell Method (to import all themes at once):**<br>
-Run the PowerShell commands in the "Import-ISEThemesFromGithub.ps1" script which can be found in the "!Script to import all themes" folder.
+Run the PowerShell commands in the "Import-ISEThemesFromGithub.ps1" script which can be found in the "!Script to import all themes" folder. Or if you trust me enough to just directly run the script, simply paste this one line into PowerShell and it will import all the themes:
+```PowerShell
+Invoke-Expression (Invoke-WebRequest "https://raw.githubusercontent.com/marzme/PowerShell_ISE_Themes/master/!Script%20to%20import%20all%20themes/Import-ISEThemesFromGithub.ps1").Content
+
+```
 
 <br>
 

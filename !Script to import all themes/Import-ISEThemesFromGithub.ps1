@@ -1,4 +1,4 @@
-# The below PowerShell commands import all 37 themes from https://github.com/marzme/PowerShell_ISE_Themes into the PowerShell ISE
+# The below PowerShell commands import all 38 themes from https://github.com/marzme/PowerShell_ISE_Themes into the PowerShell ISE
 
 # List of the ends of the URLs of each of the raw ps1xml theme files in the repo
 $ThemeURLEnds = @(
