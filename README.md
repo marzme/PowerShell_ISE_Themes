@@ -49,6 +49,10 @@ The Placidity theme I created myself from scratch, and is my personal favourite.
 ![Alt text](Black_Pastel/Black_Pastel_Example.PNG?raw=true)
 <hr>
 
+#### Calm Dusk:
+![Alt text](Calm_Dusk/Calm_Dusk_Example.PNG?raw=true)
+<hr>
+
 #### DependOnMe:
 ![Alt text](DependOnMe/DependOnMe_Example.PNG?raw=true)
 <hr>

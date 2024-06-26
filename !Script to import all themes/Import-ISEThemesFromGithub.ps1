@@ -7,6 +7,7 @@ $ThemeURLEnds = @(
     "Aquatic/Aquatic.StorableColorTheme.ps1xml"
     "Base16_Tomorrow/Base16_Tomorrow.StorableColorTheme.ps1xml"
     "Black_Pastel/Black_Pastel.StorableColorTheme.ps1xml"
+    "Calm_Dusk/Calm_Dusk.StorableColorTheme.ps1xml"
     "DependOnMe/DependOnMe.StorableColorTheme.ps1xml"
     "Dracula_JetBrains/Dracula_JetBrains.StorableColorTheme.ps1xml"
     "Flare_v1/Flare_v1.StorableColorTheme.ps1xml"
